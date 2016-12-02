@@ -44,6 +44,7 @@ French=pd.DataFrame(SentencesE_train)
 English=pd.DataFrame(SentencesF_train)
 
 # adds the functionality X
-print "functionality added"
+pprint "functionality added"
+
 
 
